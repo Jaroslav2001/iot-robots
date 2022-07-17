@@ -1,0 +1,4 @@
+aioserial
+fastapi
+uvicorn
+websockets
